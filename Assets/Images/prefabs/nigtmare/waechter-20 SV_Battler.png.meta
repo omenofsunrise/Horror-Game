@@ -1,0 +1,1323 @@
+fileFormatVersion: 2
+guid: cf2ee0bb10d72a64889098ee193c3d13
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 640
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824d312cb6ed173429214cd999ec5348
+      internalID: 1650345224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 640
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc69051e726eb5346826869ab0065762
+      internalID: -1203799043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_2
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 640
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299b881d4c83e2a438a3fab415c49d85
+      internalID: -1265649280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_3
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 640
+        width: 144
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5907864, y: 0.46557307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d85d9e228941f43b60d073ff044dac
+      internalID: -257100412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_4
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 640
+        width: 145
+        height: 94
+      alignment: 9
+      pivot: {x: 0.60206383, y: 0.47356918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f665cff6434224894fda5fc595ab6f
+      internalID: 1554202021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 147
+        height: 93
+      alignment: 9
+      pivot: {x: 0.59434205, y: 0.48508903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e4ecc7cb70d8949aedba18cdbf15cf
+      internalID: -1539103332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_6
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 640
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebeaf02f647ef246bd7a9db0aed44d6
+      internalID: -172362027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_7
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 640
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b10deffc5f446439dca02b64d3ab6f
+      internalID: 1125553295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_8
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 640
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d872b2abc3bea5547a124a1ef9e1ac61
+      internalID: -2020423519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 512
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717e6fdad2d7aa944973cbafd21c753a
+      internalID: 289896895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 512
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c575be28fbffe4dbbe94b70cc6fbd5
+      internalID: -1229058832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 512
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627bf1ef2b2b32a4f8914946806100e3
+      internalID: 1923047503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 512
+        width: 143
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292f52be877e7fe42af4dfc67e342883
+      internalID: 1972048719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 145
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc97ee9a386f7804884484d5f1e55b75
+      internalID: 762460413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 512
+        width: 147
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f35441dc6d2ce64fa50f6997e18589e
+      internalID: 2084578295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_15
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 514
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7f785421c89994ca2397912a801bb3
+      internalID: -2054052275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_16
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 516
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3967c82b3987dd647bfa946a785ee692
+      internalID: 557029952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_17
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 518
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50cc1c6ed1eaa94baf45ab722ddf4a3
+      internalID: -1422768526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 384
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f14b399c87725469369a8e01d61b92
+      internalID: 777399479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 384
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be6cc7a8e068d647824ba00690038d5
+      internalID: 307036879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_20
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 384
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6970cd586aef2459d3cdd9c59cd0f3
+      internalID: -1156763315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_21
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 384
+        width: 143
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b6f6c203cd0324abe09ccdea8a2f33
+      internalID: 1027115629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 145
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1cb337e0127ce4e944466fbe25b3ad
+      internalID: -1597196251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 147
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3337722fc3b45743a998a9a93519612
+      internalID: 143469261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_24
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 389
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab0ec4a52befa246aae7c4ec260e814
+      internalID: -1875539494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_25
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 389
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d246185f0d0aa84f9fe8edfd5f00e15
+      internalID: -1345937861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_26
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 389
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45abfeb2d9139a245ad88301b1cbb1c4
+      internalID: 1347510715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 269
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e056bea026301fb47a4ef117005a8e9e
+      internalID: -1273415801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 270
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bfe9dd8a6583249b9854743c79075e
+      internalID: 2130533655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_29
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 273
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273c9a0cbc11bd64ba71a2a9f9471b18
+      internalID: -562575759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_30
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 256
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2683d66b0ad4a42b9399977d2cfba3
+      internalID: 2123671810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_31
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 256
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba98c72e00a71f45b84e4dec4f73447
+      internalID: 776768321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_32
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 256
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5accb0aae6471e4290e1e02a89a5b77
+      internalID: 356008584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_33
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 261
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d138186ac412ea4c803e94c7bab82e8
+      internalID: -1456398092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_34
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 261
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73513a1285a7d0146ac0c0dd40d3a434
+      internalID: -1505019879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_35
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 261
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2b37e1705e60f4e90c7ae9a1ab1380
+      internalID: -903558463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 141
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ca85e22bd165d42aab4d8ba7cd62c7
+      internalID: 1360793271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_37
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 142
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd10c8730886c064ba16cb09e1af5281
+      internalID: -932431802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_38
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 128
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d5f5aa21dcd1444a3e7e21feca849f
+      internalID: 1022330736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 128
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9509e7f8333f5974d901c4c5ad815d83
+      internalID: -1435314531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_40
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 128
+        width: 107
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de108ea3467c42b41976638eeb60e19b
+      internalID: -1202283386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 128
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015b2af9df93b214c817886cdfb6afc9
+      internalID: 1293546748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_42
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 133
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb49e4d69bbe86745bcc6c247d76b0e5
+      internalID: -894905572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_43
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 133
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca019103a687ed42ae921e8ee73f4e4
+      internalID: 950307530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_44
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 133
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c1c9c37e6d6f444bd2230a4956dcdd
+      internalID: 950496602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fad337e0adacd4ca550f84448c8a3e
+      internalID: 1434577668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_46
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c489a2ca52fc4a041a0906dbccf73250
+      internalID: -2076821640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_47
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287fae4be37c04f4e8bbb8f54f618ca5
+      internalID: 1791549158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_48
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a0d2ef7bdb46f4fb0ae4d53bf5b563
+      internalID: -575813890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_49
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aed65f7e7277bb419c809c6b772fe89
+      internalID: -1166935779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_50
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 0
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadbf28b75c79d141a401194c580809c
+      internalID: 1703829405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_51
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660babe06e48d504096699a681ae1ee2
+      internalID: -1178760896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_52
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616833973c60da2408279dc6a98bd163
+      internalID: -988250369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waechter-20 SV_Battler_53
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 2
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca63a3c7c15d7de4497189e6293118bb
+      internalID: -984688970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      waechter-20 SV_Battler_0: 1650345224
+      waechter-20 SV_Battler_1: -1203799043
+      waechter-20 SV_Battler_10: -1229058832
+      waechter-20 SV_Battler_11: 1923047503
+      waechter-20 SV_Battler_12: 1972048719
+      waechter-20 SV_Battler_13: 762460413
+      waechter-20 SV_Battler_14: 2084578295
+      waechter-20 SV_Battler_15: -2054052275
+      waechter-20 SV_Battler_16: 557029952
+      waechter-20 SV_Battler_17: -1422768526
+      waechter-20 SV_Battler_18: 777399479
+      waechter-20 SV_Battler_19: 307036879
+      waechter-20 SV_Battler_2: -1265649280
+      waechter-20 SV_Battler_20: -1156763315
+      waechter-20 SV_Battler_21: 1027115629
+      waechter-20 SV_Battler_22: -1597196251
+      waechter-20 SV_Battler_23: 143469261
+      waechter-20 SV_Battler_24: -1875539494
+      waechter-20 SV_Battler_25: -1345937861
+      waechter-20 SV_Battler_26: 1347510715
+      waechter-20 SV_Battler_27: -1273415801
+      waechter-20 SV_Battler_28: 2130533655
+      waechter-20 SV_Battler_29: -562575759
+      waechter-20 SV_Battler_3: -257100412
+      waechter-20 SV_Battler_30: 2123671810
+      waechter-20 SV_Battler_31: 776768321
+      waechter-20 SV_Battler_32: 356008584
+      waechter-20 SV_Battler_33: -1456398092
+      waechter-20 SV_Battler_34: -1505019879
+      waechter-20 SV_Battler_35: -903558463
+      waechter-20 SV_Battler_36: 1360793271
+      waechter-20 SV_Battler_37: -932431802
+      waechter-20 SV_Battler_38: 1022330736
+      waechter-20 SV_Battler_39: -1435314531
+      waechter-20 SV_Battler_4: 1554202021
+      waechter-20 SV_Battler_40: -1202283386
+      waechter-20 SV_Battler_41: 1293546748
+      waechter-20 SV_Battler_42: -894905572
+      waechter-20 SV_Battler_43: 950307530
+      waechter-20 SV_Battler_44: 950496602
+      waechter-20 SV_Battler_45: 1434577668
+      waechter-20 SV_Battler_46: -2076821640
+      waechter-20 SV_Battler_47: 1791549158
+      waechter-20 SV_Battler_48: -575813890
+      waechter-20 SV_Battler_49: -1166935779
+      waechter-20 SV_Battler_5: -1539103332
+      waechter-20 SV_Battler_50: 1703829405
+      waechter-20 SV_Battler_51: -1178760896
+      waechter-20 SV_Battler_52: -988250369
+      waechter-20 SV_Battler_53: -984688970
+      waechter-20 SV_Battler_6: -172362027
+      waechter-20 SV_Battler_7: 1125553295
+      waechter-20 SV_Battler_8: -2020423519
+      waechter-20 SV_Battler_9: 289896895
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
